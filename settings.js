@@ -4,26 +4,39 @@ const chalk = require('chalk')
 global.ytname = "@fenix_programmer"
 global.socialm = "GitHub: BotDevilLozan"
 global.location = "srilanka, colombo, whaththla"
-global.botname = 'Godfather'
+global.botname = 'VIMAMODS (zMTeam)✅✨'
 global.ownernumber = '94773010580'
-global.ownername = 'Fenix id'
-global.websitex = "https://youtube.com/@fenix_programmer?si=wiTuE9uPy9rCRciq"
+global.ownername = 'VIMAMODS (zMTeam)✅✨ id'
+global.websitex = "~ස්ටේටස් විවුස්~🙈❤️🍃
+
+
+⭕Name-VIMA ()Z
+⭕From:-Galle💕
+⭕Nice to meet you♥️🖇️🌍🔐🧚‍♀️
+⭕සෙවු දාගන්න අනිවා  හොදෙ  ✍️🙈😁  Message -༆⃝🕊️⃪⃰⃗͢𝚅𝙸𝙼𝙰ᴍᴏᴅ⃮𝚣⃪⃯⃰🕊️⃟࿐_* on WhatsApp. https://wa.me/message/STMIRZKRPLAAN1
+
+My zMStore (App Store Premium Free) Download Link = https://www.dropbox.com/scl/fi/sfxxqdvwr7p687d44pwfb/zMStore-V-1.5.apk?rlkey=55o66kykj7pn3u47m0k3eccyz&st=08cu6s5k&dl=1
+
+♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
+ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ     ˢʰᵃʳᵉ
+
+මේක උඩ ටච් කරලා ඔයාගේ නම ගම කියන් යමු  එක්ක sv දාන්න.😊"
 global.wagc = "https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w"
 global.themeemoji = '🪀'
-global.wm = "Godfather By Fenix Id."
+global.wm = "Godfather By VIMAMODS (zMTeam)✅✨."
 global.botscript = 'https://github.com/Fenixid-server/Mr.-Robot' 
 global.packname = "Itz"
-global.author = "Godfather"
+global.author = "VIMAMODS (zMTeam)✅✨"
 global.creator = "94773010580@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94773010580"]
+global.premium = ["947"]
 global.hituet = 0
 global.typemenu = 'v12'
 global.typereply = 'v4' 
 global.autoblocknumber = '92' 
 global.antiforeignnumber = '91'
 global.welcome = false 
-global.anticall = true
+global.anticall = false
 global.autoswview = true 
 global.groupevent = false 
 global.mess = {

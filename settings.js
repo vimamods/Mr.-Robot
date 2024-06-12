@@ -7,20 +7,7 @@ global.location = "srilanka, colombo, whaththla"
 global.botname = 'VIMAMODS (zMTeam)✅✨'
 global.ownernumber = '94776734030'
 global.ownername = 'VIMAMODS (zMTeam)✅✨ id'
-global.websitex = "~ස්ටේටස් විවුස්~🙈❤️🍃
-
-
-⭕Name-VIMA ()Z
-⭕From:-Galle💕
-⭕Nice to meet you♥️🖇️🌍🔐🧚‍♀️
-⭕සෙවු දාගන්න අනිවා  හොදෙ  ✍️🙈😁  Message -༆⃝🕊️⃪⃰⃗͢𝚅𝙸𝙼𝙰ᴍᴏᴅ⃮𝚣⃪⃯⃰🕊️⃟࿐_* on WhatsApp. https://wa.me/message/STMIRZKRPLAAN1
-
-My zMStore (App Store Premium Free) Download Link = https://www.dropbox.com/scl/fi/sfxxqdvwr7p687d44pwfb/zMStore-V-1.5.apk?rlkey=55o66kykj7pn3u47m0k3eccyz&st=08cu6s5k&dl=1
-
-♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
-ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ     ˢʰᵃʳᵉ
-
-මේක උඩ ටච් කරලා ඔයාගේ නම ගම කියන් යමු  එක්ක sv දාන්න.😊"
+global.websitex = "https://whatsapp.com/channel/0029Va4rj4H8aKvBg31PMB2h"
 global.wagc = "https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w"
 global.themeemoji = '🪀'
 global.wm = "Godfather By VIMAMODS (zMTeam)✅✨."
